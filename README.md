@@ -1,4 +1,13 @@
-#  Simter Demo Server mix multiple modules
+#  Simter Demo Server
+
+A demo server that mix multiple simter modules.
+
+## Modules
+
+Module      | Remark
+------------|--------
+simter-file | File server module
+simter-kv   | Key-Value server module
 
 ## Requirement
 
@@ -8,13 +17,6 @@
 - Spring Framework 5+
 - Spring Boot 2+
 - Reactor 3+
-
-## Modules
-
-Name        | Remark
-------------|--------
-simter-file | File server module
-simter-kv   | Key-Value server module
 
 ## Maven Profiles
 
